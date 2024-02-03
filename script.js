@@ -39,7 +39,7 @@ function addResource() {
 
   document.getElementById("type").value = "";
   document.getElementById("name").value = "";
-  document.getElementById("url").value = "";
+  document.getElementById("urlß").value = "";
   document.getElementById("comments").value = "";
 }
 
